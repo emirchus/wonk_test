@@ -1,0 +1,1 @@
+enum CoffeFlag { checked, consumition }

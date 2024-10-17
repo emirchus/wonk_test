@@ -1,0 +1,79 @@
+{
+  "@@locale": "es",
+  "appTitle": "Wonk App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "coffees": "Cafeterías",
+  "@coffees": {
+    "description": "The title of the cafés section"
+  },
+  "newCoffees": "Nueva Cafetería",
+  "@newCoffees": {
+    "description": "The title of the cafés section"
+  },
+  "profile": "Perfil",
+  "@profile": {
+    "description": "The title of the profile section"
+  },
+  "settings": "Ajustes",
+  "@settings": {
+    "description": "The title of the settings section"
+  },
+  "favorites": "Favoritos",
+  "@favorites": {
+    "description": "The title of the cafés section"
+  },
+  "search": "Buscar",
+  "@search": {
+    "description": "The title of the search section"
+  },
+  "login": "Iniciar Sesión",
+  "@login": {
+    "description": "The title of the login section"
+  },
+  "loginDescrition": "Inicia sesión en tu cuenta",
+  "@loginDescrition": {
+    "description": "The description of the login section"
+  },
+  "email": "Correo Electrónico",
+  "@email": {
+    "description": "The email field"
+  },
+  "password": "Contraseña",
+  "@password": {
+    "description": "The password field"
+  },
+  "loginButton": "Iniciar Sesión",
+  "@loginButton": {
+    "description": "The login button"
+  },
+  "register": "Registrarse",
+  "@register": {
+    "description": "The title of the register section"
+  },
+  "loginWithGoogle": "Iniciar con Google",
+  "@loginWithGoogle": {
+    "description": "The login with Google button"
+  },
+  "signUp": "Registrarse",
+  "@signUp": {
+    "description": "The sign up button"
+  },
+  "signUpDescription": "Sign up for a new account",
+  "@signUpDescription": {
+    "description": "The description of the sign up section"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "The confirm password field"
+  },
+  "logout": "Cerrar Sesión",
+  "@logout": {
+    "description": "The logout button"
+  },
+  "signupWithGoogle": "Registrarse con Google",
+  "@signupWithGoogle": {
+    "description": "The sign up with Google button"
+  }
+}

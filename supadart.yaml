@@ -1,0 +1,17 @@
+supabase_url: https://wuqztzzdciazlryzfqtu.supabase.co
+supabase_anon_key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind1cXp0enpkY2lhemxyeXpmcXR1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3Mjg2OTY4NjEsImV4cCI6MjA0NDI3Mjg2MX0._KInqxF0ZK93sCNsFCpVS6F0xHFHODALsvehl5ilzG0
+
+output: lib/domain/models/
+separated: false
+# Set to true, if you are not using Flutter, just normal Dart project
+dart: false
+
+mappings:
+  # books: book
+  # categories: category
+  # children: child
+  # people: person
+
+exclude:
+  # - toJson
+  # - copyWith

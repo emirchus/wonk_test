@@ -1,0 +1,79 @@
+{
+  "@@locale": "en",
+  "appTitle": "Wonk App",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "coffees": "Stores",
+  "@coffees": {
+    "description": "The title of the cafés section"
+  },
+  "newCoffees": "New Store",
+  "@newCoffees": {
+    "description": "The title of the cafés section"
+  },
+  "favorites": "Favorites",
+  "@favorites": {
+    "description": "The title of the cafés section"
+  },
+  "profile": "Profile",
+  "@profile": {
+    "description": "The title of the profile section"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "The title of the settings section"
+  },
+  "search": "Search",
+  "@search": {
+    "description": "The title of the search section"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "The title of the login section"
+  },
+  "loginDescrition": "Login to your account",
+  "@loginDescrition": {
+    "description": "The description of the login section"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "The email field"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "The password field"
+  },
+  "loginButton": "Login",
+  "@loginButton": {
+    "description": "The login button"
+  },
+  "register": "Register",
+  "@register": {
+    "description": "The title of the register section"
+  },
+  "loginWithGoogle": "Login with Google",
+  "@loginWithGoogle": {
+    "description": "The login with Google button"
+  },
+  "signUp": "Sign Up",
+  "@signUp": {
+    "description": "The title of the sign up section"
+  },
+  "signUpDescription": "Sign up for a new account",
+  "@signUpDescription": {
+    "description": "The description of the sign up section"
+  },
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "The confirm password field"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "The logout button"
+  },
+  "signupWithGoogle": "Sign up with Google",
+  "@signupWithGoogle": {
+    "description": "The sign up with Google button"
+  }
+}
